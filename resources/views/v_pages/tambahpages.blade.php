@@ -16,7 +16,7 @@
                 <input type="text" name="author" value="satria" class="form-control" hidden>
             <div class="mb-3">
                 <label for="" class="form-label">Content</label>
-                <input type="text" name="content" class="form-control">
+                <textarea type="text" name="content" value="" rows="13" class="form-control"></textarea>
             </div>
 
 
